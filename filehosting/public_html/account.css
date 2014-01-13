@@ -1,0 +1,42 @@
+.right{
+	align:right;
+	}
+
+.left{
+	align:left;
+	}
+
+.righttext{
+	text-align:right;
+	}
+.lefttext{
+	text-align:left;
+	}
+
+.forty{
+	font-size:40%;
+	}
+.sixty{
+	font-size:60%;
+	}
+#widetable{
+	position:fixed;
+	margin-top:0;
+	margin-left:0;
+	margin-right:0;
+	height:80%;
+	
+	}
+.leftpane{
+	left:0;
+	top:0;
+	height:100%;
+	width:100%;
+	}
+
+.rightpane{
+	right:0;
+	top:0;
+	height:100%;
+	width:100%;
+	}
